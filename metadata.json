@@ -1,0 +1,7 @@
+{
+  "name": "MetOut Outdoor Utility",
+  "description": "A serious decision-support tool for hiking and backpacking, providing weather-aware hazard assessments and ranger-style AI interpretation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
